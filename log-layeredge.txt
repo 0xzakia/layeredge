@@ -143,3 +143,6 @@
 [15:13:38 | 19-02-2025] Last Claim Point: 18/02/2025 08:13:10
 [15:13:39 | 19-02-2025] ✅ Points claimed for 0xd57D011F58358aBed659e3f825c38aF9e021275E
 [15:13:39 | 19-02-2025] 🚨 Failed to start node for 0xd57D011F58358aBed659e3f825c38aF9e021275E: [object Object]
+[19:17:23 | 19-02-2025] Wallet Address: 0xd57D011F58358aBed659e3f825c38aF9e021275E
+[19:17:23 | 19-02-2025] Node Points: 74817
+[19:17:23 | 19-02-2025] Last Claim Point: 19/02/2025 08:13:38
