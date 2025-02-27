@@ -299,3 +299,20 @@
 [19:18:55 | 27-02-2025] Wallet Address: 0xd57D011F58358aBed659e3f825c38aF9e021275E
 [19:18:55 | 27-02-2025] Node Points: 207144
 [19:18:55 | 27-02-2025] Last Claim Point: 26/02/2025 12:18:56
+[23:12:47 | 27-02-2025] Wallet Address: 0xd57D011F58358aBed659e3f825c38aF9e021275E
+[23:12:47 | 27-02-2025] Node Points: 207144
+[23:12:47 | 27-02-2025] Last Claim Point: 26/02/2025 12:18:56
+[23:12:48 | 27-02-2025] 🚨 Failed to claim points for 0xd57D011F58358aBed659e3f825c38aF9e021275E: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[23:12:50 | 27-02-2025] ✅ Node started for 0xd57D011F58358aBed659e3f825c38aF9e021275E
